@@ -6,9 +6,7 @@ It fetches live weather data from a public API and displays it in a clean, user-
 ---
 
 ## 🌤️ Live Demo
-Try the app online:  
-[Live Demo]()  
-*(Replace with your GitHub Pages link)*
+Try the app online:  [Live Demo]()  
 
 ---
 
